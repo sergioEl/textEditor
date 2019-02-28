@@ -1,0 +1,10 @@
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/obj/Debug/Practice_3_TextEditor.Form1.resources
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/obj/Debug/Practice_3_TextEditor.Properties.Resources.resources
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/bin/Debug/Practice_3_TextEditor.exe.config
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/bin/Debug/Practice_3_TextEditor.exe.mdb
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/bin/Debug/Practice_3_TextEditor.pdb
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/bin/Debug/Practice_3_TextEditor.exe
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/obj/Debug/Practice_3_TextEditor.exe
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/obj/Debug/Practice_3_TextEditor.exe.mdb
+/Volumes/SEOKHOHAN/UCM/2016 fall/C#/Project_3/Practice_3_TextEditor/Practice_3_TextEditor/obj/Debug/Practice_3_TextEditor.pdb

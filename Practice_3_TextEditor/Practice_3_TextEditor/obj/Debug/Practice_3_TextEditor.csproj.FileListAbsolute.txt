@@ -1,0 +1,18 @@
+c:\users\sxh76090\documents\visual studio 2013\Projects\Practice_3_TextEditor\Practice_3_TextEditor\bin\Debug\Practice_3_TextEditor.exe.config
+c:\users\sxh76090\documents\visual studio 2013\Projects\Practice_3_TextEditor\Practice_3_TextEditor\bin\Debug\Practice_3_TextEditor.exe
+c:\users\sxh76090\documents\visual studio 2013\Projects\Practice_3_TextEditor\Practice_3_TextEditor\bin\Debug\Practice_3_TextEditor.pdb
+c:\users\sxh76090\documents\visual studio 2013\Projects\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.csprojResolveAssemblyReference.cache
+c:\users\sxh76090\documents\visual studio 2013\Projects\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.Form1.resources
+c:\users\sxh76090\documents\visual studio 2013\Projects\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.Properties.Resources.resources
+c:\users\sxh76090\documents\visual studio 2013\Projects\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.csproj.GenerateResource.Cache
+c:\users\sxh76090\documents\visual studio 2013\Projects\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.exe
+c:\users\sxh76090\documents\visual studio 2013\Projects\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.pdb
+M:\HSH\C#\Project_3\Practice_3_TextEditor\Practice_3_TextEditor\bin\Debug\Practice_3_TextEditor.exe.config
+M:\HSH\C#\Project_3\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.exe
+M:\HSH\C#\Project_3\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.pdb
+M:\HSH\C#\Project_3\Practice_3_TextEditor\Practice_3_TextEditor\bin\Debug\Practice_3_TextEditor.exe
+M:\HSH\C#\Project_3\Practice_3_TextEditor\Practice_3_TextEditor\bin\Debug\Practice_3_TextEditor.pdb
+M:\HSH\C#\Project_3\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.csprojResolveAssemblyReference.cache
+M:\HSH\C#\Project_3\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.Form1.resources
+M:\HSH\C#\Project_3\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.Properties.Resources.resources
+M:\HSH\C#\Project_3\Practice_3_TextEditor\Practice_3_TextEditor\obj\Debug\Practice_3_TextEditor.csproj.GenerateResource.Cache
